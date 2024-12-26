@@ -48,7 +48,8 @@ The confusion matrices below highlight the performance of the models on test dat
 
 #### KNN (k-Nearest Neighbors) & Logistic Regression:
 
-![confusion](https://github.com/user-attachments/assets/3fd8d7ab-753e-4299-8071-edcb0eaf4b44)
+![confusion](https://github.com/user-attachments/assets/a56182d2-452f-4b7b-be8c-9b9cb8ed5f91)
+
 
 ---
 
